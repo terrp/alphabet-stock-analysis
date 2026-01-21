@@ -18,7 +18,7 @@ Time-series analysis of Alphabet stock prices (Apr 1 - Oct 1, 2020) identifying 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install pandas numpy matplotlib jupyter
+pip install -r requirements.txt
 ```
 
 ### Run Analysis
